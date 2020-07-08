@@ -40,7 +40,7 @@ $password = isset($_POST['password']) ? $_POST['password'] : '';
 <form action="<?php $_SERVER['PHP_SELF']; ?>" method="post">
 
 <fieldset>
-  <legend>Enter a Username and a Secure Password</legend>
+  <legend>Enter an Username and a Secure Password</legend>
   <label for="username">Username:</label>
   <input name="username" id="username" type="text" 
          value="<?php echo htmlspecialchars($username) ?>"/>
