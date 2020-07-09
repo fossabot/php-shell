@@ -57,9 +57,9 @@
 
 ------------
 > This is a Modified version of PHP-Shell `https://phpshell.sourceforge.io/`.
- I Retouched it and made it Simple.
- Website `https://tu.hin.life`.
-My Social:
+>I Retouched it and made it Simple.
+>Website `https://tu.hin.life`.
+>My Social:
 
 https://fb.me/jeeetpaul
 https://www.instagram.com/jeeetpaul
