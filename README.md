@@ -54,8 +54,7 @@
 [![Shell](https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/shell%2Fshell.png?alt=media&token=6f5f91a1-28fb-4a33-a6e9-90ce29dae424 "Shell")](https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/shell%2Fshell.png?alt=media&token=6f5f91a1-28fb-4a33-a6e9-90ce29dae424 "Shell")
 
 ------------
-> This is a Modified version of PHP-Shell `https://phpshell.sourceforge.io/`.<br>
->I Retouched it and made it Simple.<br>
+
 >Website `https://tu.hin.life`.<br>
 >My Social:<br><br>
 
