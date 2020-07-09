@@ -15,6 +15,7 @@
 ###### 1. Download the Zip or Clone this Repository.
 ###### 2. <tt>index.php</tt> , <tt>hash.php</tt> , <tt>config.php</tt> are needed for this script.
 ###### 3. After upload open <tt>[your server url]/hash.php</tt> and enter an username and a Strong Password and hit Enter.
+###### 4.  You will get a Username and a Hashed Password(SHA1). Copy that line.
 
 ------------
 
@@ -22,9 +23,6 @@
 [![Hash](https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/shell%2Fhash.png?alt=media&token=430ae877-d4b5-403a-b812-69114d79ea80 "Hash")](https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/shell%2Fhash.png?alt=media&token=430ae877-d4b5-403a-b812-69114d79ea80 "Hash")
 
 ------------
-
-
-###### 4.  You will get a Username and a Hashed Password(SHA1). Copy that line.
 ###### 5.  Edit <tt>config.php</tt> in your control panel and Paste the Line in <tt>[users]</tt> Section.
 
 `Example:`
