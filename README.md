@@ -1,5 +1,6 @@
 # Php-Shell
 [![Php-Shell](https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/shell%2Ffavicon.ico?alt=media&token=5cd44a03-69c1-40f4-84e9-080deb284585 "Php-Shell")](https://firebasestorage.googleapis.com/v0/b/webtuhin.appspot.com/o/shell%2Ffavicon.ico?alt=media&token=5cd44a03-69c1-40f4-84e9-080deb284585 "Php-Shell")
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcachecleanerjeet%2Fphp-shell.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcachecleanerjeet%2Fphp-shell?ref=badge_shield)
 ------------
 
 ##### **This is a PHP Shell, You will upload this in your server(PHP required) and you will get a Shell access (Not Root access).**
@@ -68,3 +69,7 @@ https://blog.iamtuhin.ga
 ###  Dedicated to Maa & Baba.
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fcachecleanerjeet%2Fphp-shell.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fcachecleanerjeet%2Fphp-shell?ref=badge_large)
